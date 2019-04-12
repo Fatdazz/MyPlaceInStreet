@@ -1,0 +1,6 @@
+Packages/
+Library/
+obj/
+Logs/
+Blend/
+*.meta

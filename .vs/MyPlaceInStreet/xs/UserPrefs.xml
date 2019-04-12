@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{03F38B3C-5EAC-3318-A09A-74450BE63AB7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/NodeAlex/NodeEditor_A.cs">
+    <Files>
+      <File FileName="Assets/Editor/NodeAlex/NodeEditor_A.cs" Line="139" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
